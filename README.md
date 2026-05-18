@@ -6,8 +6,6 @@
 
 I'm a Mechanical Engineering student at **Polytechnique Montréal** passionate about bridging the gap between hardware and software. I love building innovative solutions that combine mechanical design with cutting-edge technology—whether it's AI-powered systems, autonomous robots, or creative web applications.
 
-Currently serving as **Vice President of Events** for the **Google Developer Group (GDG)** on campus, fostering tech innovation and community growth.
-
 🌍 **Trilingual:** English | French | Mandarin
 
 ---
@@ -15,8 +13,8 @@ Currently serving as **Vice President of Events** for the **Google Developer Gro
 ## 💼 Work Experience
 
 **Manufacturing Engineering Intern** @ Tesla  
-🔋 Sparks, Nevada | Mar 2026 - Present (3 mos)  
-Incoming Summer 2026 & Fall 2026
+🔋 Sparks, Nevada | Jun 2026 - Jan 2027 (7 mos)  
+Cell Engineering
 
 **Mechanical Engineering Intern** @ Lockheed Martin  
 ⚙️ Montreal, Quebec | Jan 2026 - Apr 2026 (4 mos)  
@@ -25,9 +23,6 @@ Canadian Surface Combattant, Integration
 **AOTC Consultant** @ Accenture  
 📚 Montreal, Quebec | Jan 2026 - Apr 2026 (4 mos)  
 Apprenticeship program - Consulted for non-profit to streamline operations and enhance marketing outreach
-
-**Vice President of Events** @ Google Developer Group - Polytechnique Montréal  
-🚀 Montreal, Quebec | Jan 2026 - Mar 2026 (3 mos)
 
 **Intern** @ Ville de Montréal  
 💦 Montreal, Quebec | May 2025 - Aug 2025 (4 mos)  
@@ -139,8 +134,8 @@ Water Department, Testing
 ## 🎓 Education & Recognition
 
 - **B.Eng. Mechanical Engineering** – Polytechnique Montréal (In Progress)
-- **RoboHacks 2025** – 5th Place Winner (Autonomous Robotics)
-- **ConUHacks** – Recognition for AI Voice Technology Innovation
+- **RoboHacks 2025** – 🏆Unexpected Expedition Award, 5th Place Winner (Autonomous Robotics)
+- **ConUHacks** – 🏆Best Use of ElevenLabs
 - **Google Developer Group** – Vice President of Events
 
 ---
