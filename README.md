@@ -22,7 +22,7 @@ Canadian Surface Combattant, Integration
 
 **AOTC Consultant** @ Accenture  
 📚 Montreal, Quebec | Jan 2026 - Apr 2026 (4 mos)  
-Apprenticeship program - Consulted for non-profit to streamline operations and enhance marketing outreach
+Apprenticeship program - Consulted for a non-profit organisation to streamline operations and enhance marketing outreach
 
 **Intern** @ Ville de Montréal  
 💦 Montreal, Quebec | May 2025 - Aug 2025 (4 mos)  
