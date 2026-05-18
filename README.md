@@ -32,6 +32,30 @@ Water Department, Testing
 
 ## 🚀 Featured Projects
 
+### 📱 **[Personal-Website](https://www.louiszhang.app/)**
+*Professional portfolio showcasing technical projects and engineering work*
+- **Tech:** TypeScript, Next.js, React, CSS, Responsive Design
+- Modern portfolio featuring software and mechanical engineering projects
+- Optimized for performance and user experience
+
+### 📊 **[Job-Application-Status-Chrome-Extension](https://github.com/Louiszhang2005-1/Job-Application-Status-Chrome-Extension)**
+*Productivity tool for tracking job applications*
+- **Tech:** TypeScript, Chrome Extension API, React
+- Streamline job search workflow with centralized tracking
+- Lightweight and efficient browser integration
+
+### 🏥 **Nursie (AI-Driven Nurse Assistant System)**
+*🏆Best Use of ElevenLabs (ConUHacks X)*
+- **Tech:** AI/ML, Voice Recognition, TypeScript
+- Intelligent nurse assistant with natural language processing
+- Recognition for innovative healthcare technology
+
+### 🌲 **RoboHacks 2025 – Autonomous Reforestation Robot**
+*🏆Unexpected Expedition Award (RoboHacks), 5th Place Overall*
+- **Tech:** C++, Embedded Systems, Mechanical Design
+- Designed and built an autonomous robot for environmental reforestation
+- Integrated computer vision and mechanical actuation systems
+
 ### 🎰 **[Portfolio_Vending-Machine](https://github.com/Louiszhang2005-1/Portfolio_Vending-Machine)**
 *A creative proof-of-concept portfolio website reimagined as an interactive vending machine*
 - **Tech:** TypeScript, Next.js, React, Tailwind CSS, Framer Motion
@@ -44,11 +68,6 @@ Water Department, Testing
 - Right-click Blender addon for instant mechanical engineering guidance
 - Dual voice synthesis with real-time analysis (~2-3 second response time)
 
-### 🌲 **RoboHacks 2025 – Autonomous Reforestation Robot**
-*5th Place Winner | Innovative autonomous robotics project*
-- **Tech:** C++, Embedded Systems, Mechanical Design
-- Designed and built an autonomous robot for environmental reforestation
-- Integrated computer vision and mechanical actuation systems
 
 ### 💼 **[Fully-Integrated-CRM-Tool](https://github.com/Louiszhang2005-1/Fully-Integrated-CRM-Tool)**
 *Enterprise customer relationship management platform*
@@ -56,29 +75,12 @@ Water Department, Testing
 - Complete CRM solution with real-time data synchronization
 - Production-grade application architecture
 
-### 📊 **[Job-Application-Status-Chrome-Extension](https://github.com/Louiszhang2005-1/Job-Application-Status-Chrome-Extension)**
-*Productivity tool for tracking job applications*
-- **Tech:** TypeScript, Chrome Extension API, React
-- Streamline job search workflow with centralized tracking
-- Lightweight and efficient browser integration
-
-### 🏥 **Nursie (AI-Driven Nurse Assistant System)**
-*ConUHacks Recognition | Voice-Enabled Healthcare Technology*
-- **Tech:** AI/ML, Voice Recognition, TypeScript
-- Intelligent nurse assistant with natural language processing
-- Recognition for innovative healthcare technology
-
 ### 🆘 **ResQ---Link**
 *Emergency Coordination and Response System*
 - **Tech:** Full-Stack Development, Real-Time Communication
 - Facilitating rapid emergency response coordination
 - Connecting responders with critical information
 
-### 📱 **[Personal-Website](https://www.louiszhang.app/)**
-*Professional portfolio showcasing technical projects and engineering work*
-- **Tech:** TypeScript, Next.js, React, CSS, Responsive Design
-- Modern portfolio featuring software and mechanical engineering projects
-- Optimized for performance and user experience
 
 ---
 
