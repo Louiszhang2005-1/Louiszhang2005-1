@@ -13,7 +13,7 @@ I'm a Mechanical Engineering student at **Polytechnique Montréal** passionate a
 ## 💼 Work Experience
 
 **Manufacturing Engineering Intern** @ Tesla  
-🔋 Sparks, Nevada | Jun 2026 - Jan 2027 (7 mos)  
+🔋 Sparks, Nevada | Jun 2026 - Aug 2026 (3 mos)  
 Cell Engineering
 
 **Mechanical Engineering Intern** @ Lockheed Martin  
@@ -171,6 +171,6 @@ When I'm not building robots or writing code, you'll find me exploring the inter
 
 **Thanks for stopping by! Feel free to check out my projects and reach out to collaborate.** ⭐
 
-*Last updated: May 2026*
+*Last updated: Aug 2026*
 
 </div>
