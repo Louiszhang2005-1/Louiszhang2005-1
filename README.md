@@ -4,7 +4,7 @@
 
 **Mechanical Engineering Student** • **Full-Stack Developer** • **Tech Enthusiast**
 
-I'm a Mechanical Engineering student at **Polytechnique Montréal** passionate about bridging the gap between hardware and software. I love building innovative solutions that combine mechanical design with cutting-edge technology—whether it's AI-powered systems, autonomous robots, or creative web applications.
+I'm a Mechanical Engineering student at **Polytechnique Montréal (University of Montreal)** passionate about bridging the gap between hardware and software. I love building innovative solutions that combine mechanical design with cutting-edge technology—whether it's AI-powered systems, autonomous robots, or creative web applications.
 
 🌍 **Trilingual:** English | French | Mandarin
 
