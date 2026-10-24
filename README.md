@@ -32,6 +32,23 @@ Water Department, Testing
 
 ## 🚀 Featured Projects
 
+### [@Berny-ft/HackHarvard2026](https://github.com/Berny-ft/HackHarvard2026)
+🏆 1st place, Best Data-Driven Agent (Chalk Prize), HackHarvard 2026  
+Oct 2026 – Oct 2026
+
+Trace is an autonomous AI agent that warns people before a wildfire or storm surge reaches their home. It works address by address rather than for whole evacuation zones.
+
+Every 15 minutes, Trace pulls NASA satellite fire detections, National Weather Service warnings, NOAA hurricane advisories and tide gauges, and live wind and fuel-dryness data. A wind-driven spread model projects where the hazard will be over the next few hours, and the agent decides whether each home should watch, prepare, or evacuate.
+
+People are reached directly: a text at the first warning and a phone call from an AI voice agent when it’s time to evacuate. A time-aware router plans an evacuation route that avoids roads the fire or flood will reach first, with step-by-step directions and the latest time to leave safely. Users can text or call back anytime to ask where the danger is and which way to go.
+
+A web app replays real wildfires and hurricanes hour by hour, with 3D fire spread, storm-surge flooding, and a live map of current hot spots and Red Flag warnings.
+
+Results from replays of 5 real wildfires and 4 hurricanes, with no hindsight:
+• Warned every destroyed home across 600 households in the Eaton and Palisades fires, a median of 8.7 hours
+
+Built with: Python, React, Mapbox GL, three.js, Chalk, Photon, ElevenLabs, NASA FIRMS, NOAA, OpenStreetMap
+
 ### 📱 **[Personal-Website](https://www.louiszhang.app/)**
 *Professional portfolio showcasing technical projects and engineering work*
 - **Tech:** TypeScript, Next.js, React, CSS, Responsive Design
